@@ -11,7 +11,7 @@
 <p>*LATTE*</p>
 <br>
 <p>*ESPRESSO*</p>
-<br>
+<hr>
 
 <p>Each GPIO PIN is responsible for its' button</p>
 <br>
