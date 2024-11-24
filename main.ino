@@ -74,9 +74,9 @@ void loop() {
     lcd.print("    ");
     lcd.setCursor(4, 0);
     lcd.print(option3);
-    lcd.setCursor(4,1);
+    lcd.setCursor(4, 1);
     lcd.print(option4);
-    lcd.setCursor(3,0);
+    lcd.setCursor(3, 0);
     lcd.print(">");
   }
   
